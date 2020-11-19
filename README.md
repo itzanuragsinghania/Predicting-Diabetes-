@@ -73,7 +73,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 - Execute the command: python app.py
 
 ### Team  
-[Anurag Singhania].(https://github.com/itzanuragsinghania) - Ml Models and Deployment
+[Anurag Singhania](https://github.com/itzanuragsinghania) - Ml Models and Deployment
 
 [Hemant Kumar](https://github.com/Hemant1998-hkd) - Data Cleaning & Modification
 
