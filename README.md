@@ -32,7 +32,7 @@ Diabetes is an increasingly growing health issue due to our inactive lifestyle. 
 This is also sort of fun to work on a project like this which could be beneficial for the society. 
 
 ### Demo
-[Visit this link for live demo](https://mldiabete.herokuapp.com/)
+[Visit this link for live demo](https://prognosting-diabetes.herokuapp.com/)
 
 ### Learning Objective
 The following points were the objective of the project . If you are looking for all the following points in this repo then i have not covered all in this repo. I'm working on blog about this mini project and I'll update the link of blog about all the points in details later . (The main intention was to create an end-to-end ML project.)  
@@ -73,13 +73,14 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 - Execute the command: python app.py
 
 ### Team  
-[![Ditikrushna Giri](https://ditikrushna.me/images/diti.jpg)](https://ditikrushna.me/) |
--|
-[Ditikrushan Giri](https://ditikrushna.me/) |)
+
 
 
 ### Credits 
 - Took inspiration from [Krish Naik](https://github.com/krishnaik06) Who is a youtuber he makes contents on Data science [his youtube channel link](https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig) 
+[![Ditikrushna Giri](https://ditikrushna.me/images/diti.jpg)](https://ditikrushna.me/) |
+-|
+[Ditikrushan Giri](https://ditikrushna.me/) |)
 - Icons by [Icons8](https://icons8.com/)
 
 ### Note:
