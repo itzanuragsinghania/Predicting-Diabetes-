@@ -31,7 +31,7 @@ The motivation was to experiment  with end to end machine learning project and g
 Diabetes is an increasingly growing health issue due to our inactive lifestyle. If it is detected in time then through proper medical treatment, adverse effects can be prevented. To help in early detection, technology can be used very reliably and efficiently. Using machine learning we have built a predictive model that can predict whether the patient is diabetes positive or not.".
 This is also sort of fun to work on a project like this which could be beneficial for the society. 
 
-### Demo
+## DEMO
 [Visit this link for live demo](https://prognosting-diabetes.herokuapp.com/)
 
 ### Learning Objective
@@ -55,9 +55,9 @@ The following points were the objective of the project . If you are looking for 
 
 [<img target="_blank" src="https://github.com/scikit-learn/scikit-learn/blob/master/doc/logos/scikit-learn-logo-small.png">](https://github.com/scikit-learn/)
 <img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>
-<img target="_blank" src="https://github.com/ditikrushna/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning/blob/master/Resource/heroku.png" width=170>
-<img target="_blank" src="https://github.com/ditikrushna/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning/blob/master/Resource/numpy.png" width=170>
-<img target="_blank" src="https://github.com/ditikrushna/End-to-End-Diabetes-Prediction-Application-Using-Machine-Learning/blob/master/Resource/pandas.jpeg" width=170>
+<img target="_blank" src="https://github.com/itzanuragsinghania/Predicting-Diabetes-/blob/master/Resource/heroku.png" width=170>
+<img target="_blank" src="https://github.com/itzanuragsinghania/Predicting-Diabetes-/blob/master/Resource/numpy.png" width=170>
+<img target="_blank" src="https://github.com/itzanuragsinghania/Predicting-Diabetes-/blob/master/Resource/pandas.jpeg" width=170>
 
 ### Bug / Feature Request
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/itzanuragsinghania/Predicting-Diabetes-/issues/new) by including your search query and the expected result.
@@ -85,7 +85,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 ### Credits 
 - Took inspiration from [Krish Naik](https://github.com/krishnaik06) Who is a youtuber he makes contents on Data science [his youtube channel link](https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig) 
 
-[Ditikrushan Giri](https://ditikrushna.me/) |)
+-[Ditikrushan Giri](https://ditikrushna.me/) |)
 
 ### Note:
 - Webapp can handle concurrency upto some extent but can be scaled.
