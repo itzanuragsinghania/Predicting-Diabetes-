@@ -8,14 +8,15 @@
   * [Learning Objective](#Learning-Objective)
   * [Technical Aspect](#technical-aspect)
   * [Technologies Used](#technologies-used)
-  * [To Do](#to-do)
-  * [Installation](#installation)
-  * [Run](#run)
   * [Bug / Feature Request](#bug---feature-request)
+  * [Installation](#installation)
   * [Team](#team)
-  * [License](#license)
   * [Credits](#credits)
-
+  * [Note](#note)
+  * [License](#license)
+ 
+  
+  
 
 ### Overview 
 In this project, the objective is to predict whether the person has Diabetes or not based on various features suach as 
@@ -89,4 +90,8 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ### Note:
 - Webapp can handle concurrency upto some extent but can be scaled.
+
+## License
+
+Distributed under the MIT License. [LICENSE](LICENSCE)
 
