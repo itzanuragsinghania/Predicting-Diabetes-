@@ -73,11 +73,11 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 - Execute the command: python app.py
 
 ### Team  
-[Anurag Singhania](https://github.com/itzanuragsinghania) - Ml Models and Deployment
+[Anurag Singhania](https://github.com/itzanuragsinghania) - Ml  Model Evaluation and Deployment
 
-[Hemant Kumar](https://github.com/Hemant1998-hkd) - Data Cleaning & Modification
+[Hemant Kumar](https://github.com/Hemant1998-hkd) - Data Preprocessing & Gathering
 
-[Vikram Kumar](https://github.com/manish0007000) - HTML &CSS
+[Vikram Kumar](https://github.com/manish0007000) - HTML & CSS
 
 [Manish Kumar Rajak](https://github.com/vikramdevraj) -Presentation
 
@@ -85,7 +85,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 ### Credits 
 - Took inspiration from [Krish Naik](https://github.com/krishnaik06) Who is a youtuber he makes contents on Data science [his youtube channel link](https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig) 
 
--[Ditikrushan Giri](https://ditikrushna.me/) |)
+- [Ditikrushan Giri](https://ditikrushna.me/) |)
 
 ### Note:
 - Webapp can handle concurrency upto some extent but can be scaled.
